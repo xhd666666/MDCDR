@@ -1,8 +1,8 @@
 # MDCDR
 
-data files are available at:
-https://drive.google.com/file/d/14i13ogH6yIARR8RkAI_CzYXXDI278utb/view?usp=drive_link
-https://pan.baidu.com/s/1KdemH7HhDHbeXqlGenCUWg?pwd=ehyc
+data files are available at:  
+https://drive.google.com/file/d/14i13ogH6yIARR8RkAI_CzYXXDI278utb/view?usp=drive_link  
+https://pan.baidu.com/s/1KdemH7HhDHbeXqlGenCUWg?pwd=ehyc  
 
 conda create -n project python=3.9  
 pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2  
